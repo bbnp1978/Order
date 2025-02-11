@@ -1,1 +1,1 @@
-sytem.out.println(Hellokkfunda)
+sytem.out.print(Hellokkfunda)
